@@ -1,4 +1,9 @@
 ### Hi there Stranger 👋
+I'm a full stack junior developer with an interest in front-end development and keen to explore areas revolving around UI/UX and design.
+Graduated from Holmesglen Institute with a Diploma of Website Development.
+
+📫 How to reach me: https://www.linkedin.com/in/tammy-chan-46b0b68b/
+
 [![tchan90's github stats](https://github-readme-stats.vercel.app/api?username=tchan90&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchan90)](https://github.com/anuraghazra/github-readme-stats)
