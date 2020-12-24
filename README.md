@@ -3,6 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchan90)](https://github.com/anuraghazra/github-readme-stats)
 
+[![tchan90's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tchan90)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **tchan90/tchan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
