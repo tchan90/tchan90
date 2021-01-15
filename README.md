@@ -1,4 +1,4 @@
-### Hi there Stranger 👋
+### Hi there, Stranger 👋
 I'm a full stack junior developer with an interest in front-end development and keen to explore areas revolving around UI/UX and design.
 Graduated from Holmesglen Institute with a Diploma of Website Development.
 
