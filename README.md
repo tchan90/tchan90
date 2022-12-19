@@ -1,5 +1,6 @@
 ### Hi there, Stranger 👋
-I'm a full stack junior developer with an interest in front-end development and keen to explore areas revolving around UI/UX and design.
+I'm a full stack developer with an interest in front-end development and mobile development.
+
 Graduated from Holmesglen Institute with a Diploma of Website Development.
 
 📫 How to reach me: https://www.linkedin.com/in/tammy-chan-46b0b68b/
